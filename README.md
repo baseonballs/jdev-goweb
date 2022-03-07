@@ -4,6 +4,8 @@ Sample go web application
 
 # Repo:  https://github.com/baseonballs/jdev-goweb.git
 
+## source: https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker
+
 export GOFLAGS=-mod=vendor
 export GO111MODULE=on
 
